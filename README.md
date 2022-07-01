@@ -38,6 +38,3 @@
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/andersoncvlh/andersoncvlh/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
